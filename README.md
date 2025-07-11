@@ -32,15 +32,6 @@
 
 ---
 
-## 🗃️ Entity Relationship Diagram (ERD)
-
-This ER diagram shows the relationship between `Books`, `Customers`, and `Orders` tables in the Online Bookstore database.
-
-![ER Diagram](assets/er-diagram.png)
-
-
----
-
 ## ✅ Solved SQL Questions
 
 ### 🔹 Basic Queries
