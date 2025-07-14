@@ -1,4 +1,3 @@
-# sql_project_02
 # 📚 Online Bookstore SQL Project
 
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
